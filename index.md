@@ -1,11 +1,13 @@
+# Ming Wai Yeung
 
 __Computational Genomics & Bioinformatics \| Machine Learning in Health Science \| Passionate about leveraging Data & AI for Insightful Biomedical Discoveries__
 
+[<img alt="LinkedIn" width="30px" src="https://github.com/user-attachments/assets/5d20eb25-d718-48ff-a9ef-69af77ef65bb" />](https://www.linkedin.com/in/ming-wai-yeung)
+[<img alt="orcid" width="30px" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" />](https://orcid.org/0000-0001-9794-3109)
+[<img alt="googlescholar" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" />](https://scholar.google.com/citations?user=ufqS8j0AAAAJ&hl=en&oi=ao)
 
-<a href="#"><p align="left">
-[<img width=30 src="https://github.com/user-attachments/assets/5d20eb25-d718-48ff-a9ef-69af77ef65bb">](https://www.linkedin.com/in/ming-wai-yeung)
-[<img width=30 src="https://orcid.org/assets/vectors/orcid.logo.icon.svg">](https://orcid.org/0000-0001-9794-3109)
-</p></a>
+
+
 
 
 I am a Data Scientist with 10 years experience in medical research working with a wide of range medical datasets and knowledgebases. My previous work included 
@@ -16,7 +18,7 @@ I am a Data Scientist with 10 years experience in medical research working with 
 
 ---
 
-### Development languages and tools
+## Development languages and tools
 
 **Version Control**
 <div align="left">
@@ -58,7 +60,9 @@ I am a Data Scientist with 10 years experience in medical research working with 
 ---
 
 
-### Selected Publications  
+## Selected Publications  
+
+
 - Yeung, M.W. [Genomic insights into cardiovascular traits from deep phenotyping of large-scale population cohorts](https://doi.org/10.33612/diss.1013965620) *Thesis* , 2024.
 	- This is a cumulative thesis consisting of 10 publications coming out from my PhD research in the genetics of cardiovascular traits. I utilized large-scale biobank datasets and advanced machine learning methods to process high-dimensional medical data, identifying new biomarkers and genetic loci related to CVD. The findings underscore the importance of deep phenotyping and machine learning in uncovering genetic components of various cardiovascular conditions, providing mechanistic insights into candidate genes and pathways.
    
