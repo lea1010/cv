@@ -1,4 +1,3 @@
-# Ming Wai Yeung
 
 __Computational Genomics & Bioinformatics \| Machine Learning in Health Science \| Passionate about leveraging Data & AI for Insightful Biomedical Discoveries__
 
